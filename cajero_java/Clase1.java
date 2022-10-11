@@ -14,6 +14,8 @@ public class Clase1{
 		int menu = 0;
 		
 		Scanner leer = new Scanner (System.in);
+
+		//Comentario para agregar cambios de la seccion git de la evaluacion//
 		
 
 		while (errorPin != 3){
